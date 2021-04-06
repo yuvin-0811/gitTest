@@ -3,13 +3,6 @@
 모듈
 ====
 
-.. _참고해야 할 하이퍼링크:
-    https://soma0sd.tistory.com/
-
-Attributes:
-    module_variable_1(int): 모듈 수준의 변수가 있는 경우 모듈의
-      문서화 문자열에 `Attributes:` 섹션을 만들어서 표현합니다.
-    
 모듈의 경우 문서의 최상단에 있는 주석을 모듈의 문서화 문자열(docstring)로
 인식합니다.
 
